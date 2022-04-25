@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = andrea.marketing.kedge@gmail.com
+	name = andrea santos
